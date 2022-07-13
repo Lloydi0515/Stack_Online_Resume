@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+    list-style: none;
+}
+.b-line {
+    border: solid;
+    margin: 20px 90px 20px 90px; /* top | right | bottom | left */
+}
+
+.fname {
+    text-align: center;
+}
+.lname {
+    text-align: center;
+}
+.num {
+    text-align: center;
+}
+.par {
+    display: flex;
+    margin-top: 20px;
+    padding-left: 100px;
+    font-size: 20px;
+}
+.obj {
+    display: flex;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+.exp {
+    display: flex;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+.edu {
+    display: flex;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+.int {
+    display: flex;
+    margin-top: 20px;
+    padding-left: 20px;
+}
